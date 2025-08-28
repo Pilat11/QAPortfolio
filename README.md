@@ -11,8 +11,8 @@ I enjoy finding bugs, writing test cases, and collaborating with developers to d
   - Python  
   - SQL  
   - HTML & CSS  
-- **Databases**: MySQL, PostgreSQL  
-- **Testing Tools**: JIRA, Postman, Selenium (basic), PyTest  
+ 
+- **Testing Tools**: JIRA,
 - **Version Control**: Git, GitHub  
 
 ---
@@ -22,14 +22,11 @@ I enjoy finding bugs, writing test cases, and collaborating with developers to d
 Here are some of the projects I’ve worked on to improve my QA and development skills:
 
 ### 🔎 [Bug Tracking Project](#)
-- Created detailed bug reports using a sample e-commerce application.  
+- Created detailed bug reports using a Virgin Airways website.  
 - Categorized defects by severity and priority.  
 - Practiced with JIRA-like workflows.  
 
-
-### 🌐 [Mini Web App Testing](#)
-- Developed a simple HTML/CSS/JavaScript web app.  
-- Wrote manual test cases to test responsiveness and UI behavior.  
+  
 
 ---
 
