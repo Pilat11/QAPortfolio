@@ -12,7 +12,7 @@ I enjoy finding bugs, writing test cases, and collaborating with developers to d
   - SQL  
   - HTML & CSS  
  
-- **Testing Tools**: JIRA,
+- **Testing Tools**: JIRA, Postman
 - **Version Control**: Git, GitHub  
 
 ---
