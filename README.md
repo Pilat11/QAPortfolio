@@ -21,11 +21,11 @@ I enjoy finding bugs, writing test cases, and collaborating with developers to d
 
 Here are some of the projects I’ve worked on to improve my QA and development skills:
 
-### 🔎 [API testing Project](#)
+### 🔎 [API testing Project](https://github.com/Pilat11/QAPortfolio/tree/main/GoRest_API)
 - Created detailed bug reports using GoRest API
 - Practiced with Postman
 
-### 🔎 [Bug Tracking Project](#)
+### 🔎 [Bug Tracking Project](https://github.com/Pilat11/QAPortfolio/tree/main/Virgin_Airways)
 - Created detailed bug reports using a Virgin Airways website.  
 - Categorized defects by severity and priority.  
 - Practiced with JIRA-like workflows.  
