@@ -30,6 +30,10 @@ Here are some of the projects I’ve worked on to improve my QA and development 
 - Categorized defects by severity and priority.  
 - Practiced with JIRA-like workflows.  
 
+### 🔎 [App testing Project](https://github.com/Pilat11/QAPortfolio/tree/main/Google_Keep)
+- Created detailed bug reports using a Keep Notes app.  
+- Categorized defects by severity and priority.  
+- Practiced with JIRA-like workflows.  
   
 
 ---
